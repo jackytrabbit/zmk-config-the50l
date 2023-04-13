@@ -1,0 +1,11 @@
+file_format: "1"
+id: THE50L
+name: THE50L
+type: board
+arch: arm
+features:
+  - keys
+outputs:
+  - usb
+  - ble
+
